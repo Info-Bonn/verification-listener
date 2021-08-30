@@ -2,8 +2,8 @@ import discord
 from discord.ext import commands
 from discord.ext import tasks
 
-from environment import ROLES, START_CHANNEL, GUILD, NOT_BEFORE, CHECK_PERIOD
-from log_setup import logger
+from ..environment import ROLES, START_CHANNEL, GUILD, NOT_BEFORE, CHECK_PERIOD
+from ..log_setup import logger
 
 
 class VerificationListener(commands.Cog):
