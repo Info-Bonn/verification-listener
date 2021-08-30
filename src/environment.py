@@ -34,7 +34,7 @@ OWNER_ID = int(load_env("OWNER_ID", "100000000000000000"))  # discord id of the 
 
 # roles to give on verification
 _ROLES = os.getenv('ROLES', "760434164146634752 880220270210740235")
-GUILD = int(load_env("GUILD", "877208002762002465"))  # guild the bot is configured for
+GUILD = int(load_env("GUILD", "760421261649248296"))  # guild the bot is configured for
 START_CHANNEL = int(load_env("START_CHANNEL", "877208002762002465"))  # channel to point members to after verification
 # date after which members need to be joined so that the bot will capture their not pending but role-less existence
 _NOT_BEFORE = load_env("NOT_BEFORE", "25.08.2021")
