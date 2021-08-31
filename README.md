@@ -14,7 +14,7 @@ It's possible to ignore members that joined before a specific date if the system
 | parameter |  description |
 | ------ |  ------ |
 | `export ROLES="760434164146634752 880220270210740235"`  | Roles to give after verification, separated by a space |
-| `export GUILD="877208002762002465"`  | Guild the bot shall be set up for |
+| `export GUILD="760421261649248296"`  | Guild the bot shall be set up for |
 | `export START_CHANNEL="877208002762002465"`  | Channel the bot mentions in welcome message |
 | `export PREFIX="b!"`  | Command prefix |
 | `export CHECK_PERIOD="5"` | Time between two checks for missed members |
