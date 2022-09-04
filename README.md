@@ -1,3 +1,6 @@
+_This bot is deprecated and will not receive updates._  
+Our new welcome-dialogue using `didscord.py V2` and buttons can be found: [here](https://github.com/Info-Bonn/welcome-dialogue).
+
 # A simple verification bot for discord
 Single-guild discord-bot to give roles to a member accepting your servers rules.  
 Also sending a neat little welcome message to the user.  
